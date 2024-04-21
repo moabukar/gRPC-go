@@ -4,7 +4,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/moabukar/gROC-go/chat"
+	"github.com/moabukar/gRPC-go/chat"
 	"google.golang.org/grpc"
 )
 
